@@ -1,5 +1,5 @@
 # backend-project 
-
+https://www.smashingmagazine.com/2020/04/express-api-backend-project-postgresql/#top
 
 # initialize the project folder as a git repository
 git init
